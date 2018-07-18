@@ -1,0 +1,22 @@
+body {
+  background-color:#F0F8FF;
+  margin-right: 175px;
+  margin-left: 175px;
+  margin-top:30px;
+  margin-bottom:30px;
+}
+h1 {
+  text-align:center;
+  border: 10px;
+  background-color: #ffffcc;
+  height:50px;
+  padding-top: 20px;
+  padding-bottom:20px;
+  font-size: 50px;
+}
+.thailand_container {
+  text-align: center;
+}
+img {
+  float: right;
+}

@@ -1,0 +1,10 @@
+f = "First"
+l = "Last"
+puts "#{f}#{l}"
+puts "#{l}#{f}"
+puts "#{f} #{l}"
+puts "#{l} #{f} #{l} #{f}"
+
+name_1 = "Megan Smith"
+name_2 = "Todd Park"
+puts "#{name_1}"
